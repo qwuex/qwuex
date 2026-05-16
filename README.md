@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! Я qwuex 👋
 
-<!--
-**qwuex/qwuex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий Python-разработчик. Сейчас активно изучаю программирование и автоматизацию.
 
-Here are some ideas to get you started:
+## 🛠️ Технологии и инструменты
+- **Языки:** Python 
+- **Библиотеки:** aiogram / telebot (для создания ботов)
+- **Инструменты:** Git, GitHub, PyCharm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Чем я занимаюсь
+- 📚 Изучаю базовый синтаксис и фишки Python
+- 🤖 Пишу и тестирую своих первых Telegram-ботов
+- 🏗️ Создаю небольшие консольные утилиты и скрипты
+
+## 📊 Моя статистика GitHub
+![Моя статистика GitHub](https://vercel.appqwuex&show_icons=true&theme=radial)
+![Топ языков](https://vercel.appqwuex&layout=compact&theme=radial)
+
+## 📫 Как со мной связаться
+- Telegram: [@qwu3x](https://t.me/qwu3x)
