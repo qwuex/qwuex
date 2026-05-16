@@ -13,8 +13,8 @@
 - 🏗️ Создаю небольшие консольные утилиты и скрипты
 
 ## 📊 Моя статистика GitHub
-![Моя статистика GitHub](https://vercel.appqwuex&show_icons=true&theme=radial)
-![Топ языков](https://vercel.appqwuex&layout=compact&theme=radial)
+![Моя статистика GitHub](https://vercel.app)
+![Топ языков](https://vercel.app)
 
 ## 📫 Как со мной связаться
 - Telegram: [@qwu3x](https://t.me/qwu3x)
